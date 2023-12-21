@@ -1,4 +1,4 @@
-# newswave
+# NewsWave
 News Explorer Application
 
 
@@ -17,7 +17,7 @@ List key features of NewsWave application. For example:
 
 ## Installation
 
-To run the News Explorer application locally, follow these steps:
+To run the NewsWave application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
