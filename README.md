@@ -6,7 +6,7 @@ This is a simple News Explorer application built using HTML, CSS, and JavaScript
 
 ## Demo
 
-Include a link to a live demo of your application if available.
+(https://newswave-beryl.vercel.app/)
 
 ## Features
 
