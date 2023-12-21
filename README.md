@@ -10,11 +10,10 @@ This is a simple News Explorer application built using HTML, CSS, and JavaScript
 
 ## Features
 
-List key features of your News Explorer application. For example:
+List key features of NewsWave application. For example:
 - View the latest news articles.
 - Search for news articles based on keywords.
 - Read the full article on the source website.
-- ...
 
 ## Installation
 
